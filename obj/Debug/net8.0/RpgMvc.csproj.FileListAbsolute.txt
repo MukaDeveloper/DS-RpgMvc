@@ -34,3 +34,4 @@ D:\2DS_Catarine_Samuel\DS\RpgMvc\obj\Debug\net8.0\refint\RpgMvc.dll
 D:\2DS_Catarine_Samuel\DS\RpgMvc\obj\Debug\net8.0\RpgMvc.pdb
 D:\2DS_Catarine_Samuel\DS\RpgMvc\obj\Debug\net8.0\RpgMvc.genruntimeconfig.cache
 D:\2DS_Catarine_Samuel\DS\RpgMvc\obj\Debug\net8.0\ref\RpgMvc.dll
+D:\2DS_Catarine_Samuel\DS\RpgMvc\obj\Debug\net8.0\RpgMvc.sourcelink.json

@@ -6,7 +6,7 @@ namespace RpgMvc.Controllers
 {
     public class UsuariosController : Controller
     {
-        public string uriBase = "http://luizsouza.somee.com/RpgApi/Usuarios/";
+        public string uriBase = "http://mukacat.somee.com/RpgApi/Usuarios/";
 
         [HttpGet]
         public ActionResult Index()
