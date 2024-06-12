@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using RpgMvc.Models.Enuns;
 
 namespace RpgMvc.Models
@@ -23,6 +24,8 @@ namespace RpgMvc.Models
         public int Disputas { get; set; }
         public int Vitorias { get; set; }
         public int Derrotas { get; set; }
-        // public List<PersonagemHabilidade> PersonagemHabilidades { get; set; } = [];
+
+        [JsonIgnore]
+        public List<PersonagemHabilidadeViewModel>? PersonagemHabilidades { get; set; }
     }
 }
